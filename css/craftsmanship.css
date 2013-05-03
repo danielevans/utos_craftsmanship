@@ -221,6 +221,31 @@ body     { pointer-events: none; }
   opacity: 0;
 }
 
+#ie6 {
+  background-image: url(../images/ie6.png);
+}
+
+
+#hammer {
+  height: 400px;
+  width: 400px;
+  background-image: url(../images/hammer.jpg);
+}
+
+#hammer.active {
+  opacity: 1;
+  -webkit-transition: 2s;
+  -moz-transition:    2s;
+  -ms-transition:     2s;
+  -o-transition:      2s;
+  transition:         2s;
+}
+
+#hammer:not(.active) {
+  opacity: 0;
+}
+
+
 /* overview step */
 
 #overview {

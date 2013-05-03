@@ -1,13 +1,17 @@
-what
-why
+I'm going to be mixing metaphores like a rat in a baseball game doing carpentry
+Pragmatic Programmer YMMV
+Bad Craftsmanship is easy to spot.
+Bad software craftsmanship is a little harder to spot intuitively, but we can do it.
+Building software is a craft. We are building software by hand.
+Maybe you should treat it like one.
+Choose your tools. - Imagine if you hired a carpenter. When its time to start hammering in some nails he pulls out this hammer (slide)
+Consider using a real tool. (slide)
+Practice your skills.
+Measure your work.
+Red Green Refactor
+Invest in your own skills.
+Diversify your skills.
+Take pride in your work.
+Don't Repeat Yourself
+Seek Peer Review
 
-
-
-messed up wires
-http://cheezburger.com/7188875520
-
-its real
-http://www.vgcats.com/comics/
-
-xbox rrod
-http://mattbrett.com/
