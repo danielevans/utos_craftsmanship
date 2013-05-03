@@ -15,4 +15,4 @@ Diversify your skills.
 Take pride in your work.
 Don't Repeat Yourself
 Seek Peer Review
-
+Code Smells (Dont fear the refactor)
